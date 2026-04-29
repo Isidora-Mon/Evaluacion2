@@ -1,6 +1,6 @@
 # Evaluación 2
 
-# INTEGRANTES:
+# Integrantes:
 - Saul Chacon
 - Vicente Vidal
 - Isidora Moncada
