@@ -22,16 +22,16 @@ Usuarios recurrentes no reciben beneficios reales
 - Recargas normales
 
 🔵 Plan Frecuente (mensual bajo)
-10% de descuento por viaje
-Límite de viajes con descuento (ej: 40 al mes)
-Estadísticas de uso
+- 10% de descuento por viaje
+- Límite de viajes con descuento (ej: 40 al mes)
+- Estadísticas de uso
 
 🟣 Plan Pro (mensual más caro)
-20% de descuento
-Viajes ilimitados con descuento
-Tope máximo mensual (ej: después de gastar X, viajas gratis)
+- 20% de descuento
+- Viajes ilimitados con descuento
+- Tope máximo mensual (ej: después de gastar X, viajas gratis)
 
 🟡 Plan Premium
-Todo lo anterior
-Beneficios extra:
-Prioridad en recarga
+- Todo lo anterior
+- Beneficios extra:
+- Prioridad en recarga
