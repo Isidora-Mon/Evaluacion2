@@ -12,7 +12,7 @@ Sistema de membresías para transporte público (tipo tarjeta bip!) donde los us
 🎯 Problema que resuelve
 La gente gasta mucho en transporte y no tiene control claro | No hay incentivos por uso frecuente | Usuarios recurrentes no reciben beneficios reales
 
-# 🧩 Tipos de membresía
+# Tipos de membresía
 
 🟢 Plan Básico (gratis)
 - Pagas tarifa normal
