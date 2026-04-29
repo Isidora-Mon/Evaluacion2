@@ -1,15 +1,15 @@
-# Evaluación 2
+### Evaluación 2
 
 # Integrantes:
 - Vicente Vidal | Lider del grupo
 - Saul Chacon
 - Isidora Moncada
 
-# Descripción del proyecto:
+## Descripción del proyecto:
 
 Sistema de membresías para transporte público (tipo tarjeta bip!) donde los usuarios pueden pagar un plan mensual para obtener beneficios en sus viajes.
 
-🎯 Problema que resuelve
+# Problema que resuelve
 La gente gasta mucho en transporte y no tiene control claro | No hay incentivos por uso frecuente | Usuarios recurrentes no reciben beneficios reales
 
 # Tipos de membresía
