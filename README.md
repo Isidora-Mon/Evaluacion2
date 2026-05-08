@@ -37,4 +37,3 @@ La gente no aprovecha descuentos disponibles | No existe un sistema que premie l
 - Mejores porcentajes de descuento disponibles
 - Beneficios exclusivos en franquicias premium
 - Recompensas especiales por uso constante
-- Prioridad en atención y soporte dentro de la app
