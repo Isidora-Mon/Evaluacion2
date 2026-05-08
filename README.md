@@ -7,29 +7,34 @@
 
 ## Descripción del proyecto:
 
-Sistema de membresías para transporte público (tipo tarjeta bip!) donde los usuarios pueden pagar un plan mensual para obtener beneficios en sus viajes.
+Sistema de beneficios y descuentos por membresía donde los usuarios pueden crear una cuenta y acceder a descuentos en distintas franquicias y comercios asociados. Mientras más utilizan la aplicación y aprovechan beneficios, más experiencia ganan para subir de nivel y desbloquear mejores descuentos.
 
 ### Problema que resuelve
-La gente gasta mucho en transporte y no tiene control claro | No hay incentivos por uso frecuente | Usuarios recurrentes no reciben beneficios reales
+La gente no aprovecha descuentos disponibles | No existe un sistema que premie la fidelidad de los usuarios | Los beneficios suelen ser iguales para todos sin importar el uso frecuente.
 
 # Tipos de membresía
 
-🟢 Plan Básico (gratis)
-- Pagas tarifa normal
-- Historial de viajes
-- Recargas normales
+🟢 Nivel Inicial (gratis)
+- Creación de cuenta
+- Acceso a descuentos básicos en franquicias asociadas
+- Historial de compras y descuentos utilizados
+- Acumulación de experiencia por uso de la app
 
-🔵 Plan Frecuente (mensual bajo)
-- 10% de descuento por viaje
-- Límite de viajes con descuento (ej: 40 al mes)
-- Estadísticas de uso
+🔵 Nivel Frecuente
+- Descuentos mejores en tiendas seleccionadas
+- Acceso a promociones exclusivas
+- Mayor acumulación de experiencia por compra
+- Estadísticas de ahorro y uso
 
-🟣 Plan Pro (mensual más caro)
-- 20% de descuento
-- Viajes ilimitados con descuento
-- Tope máximo mensual (ej: después de gastar X, viajas gratis)
+🟣 Nivel Pro
+- Descuentos premium en múltiples franquicias
+- Ofertas especiales por tiempo limitado
+- Bonificaciones extra de experiencia
+- Acceso anticipado a promociones y eventos
 
-🟡 Plan Premium
+🟡 Nivel Elite
 - Todo lo anterior
-- Beneficios extra:
-- Prioridad en recarga
+- Mejores porcentajes de descuento disponibles
+- Beneficios exclusivos en franquicias premium
+- Recompensas especiales por uso constante
+- Prioridad en atención y soporte dentro de la app
