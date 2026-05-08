@@ -14,25 +14,25 @@ La gente no aprovecha descuentos disponibles | No existe un sistema que premie l
 
 # Tipos de membresía
 
-🟢 Nivel Inicial (gratis)
+🟢 **Nivel Inicial (gratis)**
 - Creación de cuenta
 - Acceso a descuentos básicos en franquicias asociadas
 - Historial de compras y descuentos utilizados
 - Acumulación de experiencia por uso de la app
 
-🔵 Nivel Frecuente
+🔵 **Nivel Frecuente**
 - Descuentos mejores en tiendas seleccionadas
 - Acceso a promociones exclusivas
 - Mayor acumulación de experiencia por compra
 - Estadísticas de ahorro y uso
 
-🟣 Nivel Pro
+🟣 **Nivel Pro**
 - Descuentos premium en múltiples franquicias
 - Ofertas especiales por tiempo limitado
 - Bonificaciones extra de experiencia
 - Acceso anticipado a promociones y eventos
 
-🟡 Nivel Elite
+🟡 **Nivel Elite**
 - Todo lo anterior
 - Mejores porcentajes de descuento disponibles
 - Beneficios exclusivos en franquicias premium
